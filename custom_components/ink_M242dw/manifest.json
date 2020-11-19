@@ -1,0 +1,9 @@
+{
+  "domain": "ink_M252dw",
+  "name": "ink_M252dw",
+  "documentation": "https://github.com/rcastberg/ink_M252dw",
+  "dependencies": [],
+  "codeowners": ["@rcastberg"],
+  "requirements": [urllib3, requests],
+  "homeassistant": "0.95.0"
+}

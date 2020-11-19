@@ -1,6 +1,5 @@
 {
-  "name": "Test integration",
+  "name": "HP M252dw ink levels",
   "persistent_directory": "keep",
-  "zip_release": true,
-  "filename": "test.zip"
+  "zip_release": false
 }
